@@ -206,11 +206,8 @@ limitations under the License.
 **Special thanks** to [danielgindi](https://github.com/danielgindi), [mikegr](https://github.com/mikegr), [ph1lb4](https://github.com/ph1lb4) and [jitpack.io](https://github.com/jitpack-io) for their contributions to this project.
 
 
-## This fork
 
-### Videocapture
 
-https://youtu.be/-FnipAgXKuY
 
 ### Clone
 
@@ -223,9 +220,7 @@ Receiving objects: 100% (15458/15458), 17.27 MiB | 81 KiB/s, done.
 Resolving deltas: 100% (9063/9063), done.
 ```
 
-### To submit
 
-https://classroom.github.com/assignment-invitations/7ca276078b219a9841f3b0ad7ce45f0a
 
 
 ### Build
